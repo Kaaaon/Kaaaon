@@ -1,16 +1,16 @@
-### Hi there 👋
+```diff
+hi im kaon, or owen if you know me.
 
-<!--
-**Kaaaon/Kaaaon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
++ aspiring full stack dev
+- first year computer science
+! using computers my whole life
+# html, css, php, c#, c++, python
+# learning javascript, reverse engineering
+```
+<br>
+<img src="https://komarev.com/ghpvc/?username=Kaaaon&color=lightgray">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+working on
+<br>
+- [okuru](https://okuru.xyz)
+- various undisclosed projects
