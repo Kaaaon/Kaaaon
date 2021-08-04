@@ -14,3 +14,5 @@ working on
 <br>
 - [okuru](https://okuru.xyz)
 - various undisclosed projects
+
+all my repos are private, shit account, you may leave now
